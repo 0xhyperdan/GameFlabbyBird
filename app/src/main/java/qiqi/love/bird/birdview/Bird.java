@@ -61,6 +61,7 @@ public class Bird {
         canvas.drawBitmap(bitmap, null, rect, null);
     }
 
+
     public void setX(int x) {
         this.x = x;
     }
