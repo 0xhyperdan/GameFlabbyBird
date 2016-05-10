@@ -270,6 +270,7 @@ public class GameFlabbyBird extends SurfaceView implements SurfaceHolder.Callbac
      * 重置鸟的位置等数据
      */
     private void initPos() {
+        mRemovedPipe = 0;
         mPipes.clear();
         mNeedRemovePipe.clear();
         //重置鸟的位置
