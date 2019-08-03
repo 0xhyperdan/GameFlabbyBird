@@ -1,6 +1,9 @@
 # GameFlabbyBird
-SurfaceView的基本用法——鸿神博客小鸟游戏
+
+🐦 SurfaceView的基本用法——鸿神博客小鸟游戏
+
 #SurfaceView基本的写法
+
 <pre><code>
 package qiqi.love.bird.view;
 
